@@ -1,2 +1,1 @@
-# PasswordGenerator
-Week 3 Homework assignment
+# Password Generator Starter Code
